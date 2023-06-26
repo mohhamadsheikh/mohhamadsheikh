@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning AI-ML
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me (just dm me)
+- 📫 How to reach me  @mohammad_s47157(in twitter just dm me)
 
 <!---
 mohhamadsheikh/mohhamadsheikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
